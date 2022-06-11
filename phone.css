@@ -1,0 +1,25 @@
+#home{
+    height: 720px;
+     
+}
+#home::before{
+    height: 700px;
+    width: 100%;
+}
+.navbar{
+    justify-content: center;
+    opacity: 0.8;
+    position: fixed;
+    z-index: 2;
+}
+
+.headings{
+    font-size: 1.4rem;
+}
+
+.search{
+    margin-left: 70px;
+}
+.box p{
+    font-size: 0.9rem;
+}
